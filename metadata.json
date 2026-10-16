@@ -1,0 +1,6 @@
+{
+  "name": "MediGrid — Multi-Hospital Appointment & Digital Health Record System",
+  "description": "Real-time, multi-role healthcare platform with smart load-balanced doctor allocation, chronic-care continuity, digital health records with trend sparklines, airport-style availability board, and Dean escalation controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
